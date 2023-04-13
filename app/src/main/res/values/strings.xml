@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KK Marketplace</string>
+    <string name="enter">Вход</string>
+    <string name="email">Введите e-mail</string>
+    <string name="password">Введите пароль</string>
+    <string name="enterBtn">Войти</string>
+    <string name="non">Нет аккаунта?</string>
+    <string name="register">Создайте!</string>
+    <string name="search">Поиск</string>
+    <string name="singInDialogTitle">Неверные данные</string>
+    <string name="singInDialogMessage">Введенные данные неверны, либо пользователя с такими данными не существует.</string>
+    <string name="ok">OK</string>
+    <string name="registerString">Регистрация</string>
+    <string name="firstname">Имя</string>
+    <string name="secondname">Фамилия</string>
+    <string name="nextemail">E-mail</string>
+    <string name="nextfirstpassword">Пароль</string>
+    <string name="nextsecondpassword">Повторите пароль</string>
+    <string name="buyer">Я покупатель</string>
+    <string name="salesman">Я продавец</string>
+    <string name="regStrOnBtn">Зарегистрироваться</string>
+    <string name="passwordsIdntTitle">Пароли не совпадают</string>
+    <string name="passwordsIdntMsg">Введенные пароли не совпадают. Повторите ввод.</string>
+    <string name="userInDbTitle">Пользователь уже зарегистрирован</string>
+    <string name="userInDbMsg">Пользователь с введенными данными уже зарегистрирован. Введите другие данные.</string>
+    <string name="notDataTitle">Введены не все данные</string>
+    <string name="notDataMsg">Введите все данные.</string>
+</resources>
